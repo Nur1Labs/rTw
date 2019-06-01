@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/aria_bg.qm</file>
+        <file alias="ca">locale/aria_ca.qm</file>
+        <file alias="cs">locale/aria_cs.qm</file>
+        <file alias="da">locale/aria_da.qm</file>
+        <file alias="de">locale/aria_de.qm</file>
+        <file alias="en">locale/aria_en.qm</file>
+        <file alias="en_US">locale/aria_en_US.qm</file>
+        <file alias="es">locale/aria_es.qm</file>
+        <file alias="fi">locale/aria_fi.qm</file>
+        <file alias="fr_FR">locale/aria_fr_FR.qm</file>
+        <file alias="it">locale/aria_it.qm</file>
+        <file alias="ja">locale/aria_ja.qm</file>
+        <file alias="ko_KR">locale/aria_ko_KR.qm</file>
+        <file alias="nl">locale/aria_nl.qm</file>
+        <file alias="pl">locale/aria_pl.qm</file>
+        <file alias="pt">locale/aria_pt.qm</file>
+        <file alias="pt_BR">locale/aria_pt_BR.qm</file>
+        <file alias="ro_RO">locale/aria_ro_RO.qm</file>
+        <file alias="ru">locale/aria_ru.qm</file>
+        <file alias="sk">locale/aria_sk.qm</file>
+        <file alias="sv">locale/aria_sv.qm</file>
+        <file alias="tr">locale/aria_tr.qm</file>
+        <file alias="uk">locale/aria_uk.qm</file>
+        <file alias="zh_CN">locale/aria_zh_CN.qm</file>
+        <file alias="zh_TW">locale/aria_zh_TW.qm</file>
+    </qresource>
+</RCC>

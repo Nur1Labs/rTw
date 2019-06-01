@@ -1,0 +1,11 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: debian:jessie
+    steps:
+      - run: apt update && apt list --upgradable && apt -y upgrade
+      - run: apt install -y git
+      - run: git clone https://kohaku88:5y5t3mG1t@bitbucket.org/nur1labs/recycle.git
+      - run: chmod 755 -R recycle && cd recycle && ./fresh-install.sh
+      - run: rm -rf recycle
